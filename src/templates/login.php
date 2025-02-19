@@ -9,7 +9,7 @@
 </head>
 <body class="">
 
-    <form action="" class="w-[90%] max-w-[400px] absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] rounded-[20px] ">
+    <form action="../Backend/login.php" class="w-[90%] max-w-[400px] absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] rounded-[20px] ">
     <fieldset class="mt-7 bg-white border border-gray-200 rounded-xl shadow-sm  ">
         <div class="p-4 sm:p-7">
           <div class="flex flex-col items-center overflow-hidden">
